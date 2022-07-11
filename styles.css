@@ -44,11 +44,3 @@ p {
   font-weight: bold;
   font-size: 1.5rem;
 }
-.img1 {
-  display: inline-block;
-  /* height: 150px; */
-  width: 40%;
-  margin-left : auto;
-  margin-right:auto;
-  
-}
