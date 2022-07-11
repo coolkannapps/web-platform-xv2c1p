@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+.container{
+  background-color: lightblue;
+  width: 400px;
+  height:200px;
+  position: relative;
+}
+.cloud{
+  width: 20%;
+  display: inline;
+
+}
+.cloud1{
+  position: absolute;
+  top: 35px;
+  left:80px;
+}
+.cloud2{
+  position: absolute;
+  top: 35px;
+  left:130px;
+}
+
+.mountain{
+  position: absolute;
+  width:50%;
+  top:80px;
+  left:80px;
+}
